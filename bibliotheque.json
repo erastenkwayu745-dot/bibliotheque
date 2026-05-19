@@ -1,0 +1,298 @@
+[
+    {
+        "id": 1,
+        "titre": "INFORMATIQUE",
+        "auteur": "GLORIA",
+        "annee": 2012,
+        "isbn": "12345789098763",
+        "statut": "emprunte"
+    },
+    {
+        "id": 2,
+        "titre": "LA BOUSSOLE",
+        "auteur": "ERASTE",
+        "annee": 2021,
+        "isbn": "1234567890432",
+        "statut": "emprunte"
+    },
+    {
+        "id": 3,
+        "titre": "LE FESTIVAL DU PRINTEMPS",
+        "auteur": "LULU",
+        "annee": 2025,
+        "isbn": "098776324334512",
+        "statut": "disponible"
+    },
+    {
+        "id": 4,
+        "titre": "LA VIE EN DECEMBRE",
+        "auteur": "NKWAYU",
+        "annee": 2012,
+        "isbn": "78007420413",
+        "statut": "disponible"
+    },
+    {
+        "id": 5,
+        "titre": "COMMENT FAIRE 3 JOURS SANS MANGER",
+        "auteur": "JIMAN",
+        "annee": 2024,
+        "isbn": "82146291456147",
+        "statut": "disponible"
+    },
+    {
+        "id": 6,
+        "titre": "LA KADAMASTE",
+        "auteur": "GLORIA",
+        "annee": 2020,
+        "isbn": "4097329754809",
+        "statut": "disponible"
+    },
+    {
+        "id": 7,
+        "titre": "COMMENT REUSSIR SANS ETUDIER",
+        "auteur": "JEUNG",
+        "annee": 2024,
+        "isbn": "102743102411",
+        "statut": "disponible"
+    },
+    {
+        "id": 8,
+        "titre": "LES JUMEAUX",
+        "auteur": "GLO",
+        "annee": 2025,
+        "isbn": "1234567891234",
+        "statut": "disponible"
+    },
+    {
+        "id": 9,
+        "titre": "LES JUMEAUX",
+        "auteur": "GLO",
+        "annee": 2025,
+        "isbn": "1234567891234",
+        "statut": "disponible"
+    },
+    {
+        "id": 10,
+        "titre": "LES JUMEAUX",
+        "auteur": "GLO",
+        "annee": 2025,
+        "isbn": "1234567891234",
+        "statut": "disponible"
+    },
+    {
+        "id": 11,
+        "titre": "LES JUMEAUX",
+        "auteur": "GLO",
+        "annee": 2025,
+        "isbn": "1234567891234",
+        "statut": "disponible"
+    },
+    {
+        "id": 12,
+        "titre": "LES JUMEAUX",
+        "auteur": "GLO",
+        "annee": 2025,
+        "isbn": "1234567891234",
+        "statut": "disponible"
+    },
+    {
+        "id": 13,
+        "titre": "LES JUMEAUX",
+        "auteur": "GLO",
+        "annee": 2025,
+        "isbn": "1234567891234",
+        "statut": "disponible"
+    },
+    {
+        "id": 14,
+        "titre": "LES JUMEAUX",
+        "auteur": "GLO",
+        "annee": 2025,
+        "isbn": "1234567891234",
+        "statut": "disponible"
+    },
+    {
+        "id": 15,
+        "titre": "LES JUMEAUX",
+        "auteur": "GLO",
+        "annee": 2025,
+        "isbn": "1234567891234",
+        "statut": "disponible"
+    },
+    {
+        "id": 16,
+        "titre": "LES JUMEAUX",
+        "auteur": "GLO",
+        "annee": 2025,
+        "isbn": "1234567891234",
+        "statut": "disponible"
+    },
+    {
+        "id": 17,
+        "titre": "LES JUMEAUX",
+        "auteur": "GLO",
+        "annee": 2025,
+        "isbn": "1234567891234",
+        "statut": "disponible"
+    },
+    {
+        "id": 18,
+        "titre": "LES JUMEAUX",
+        "auteur": "GLO",
+        "annee": 2025,
+        "isbn": "1234567891234",
+        "statut": "disponible"
+    },
+    {
+        "id": 19,
+        "titre": "LES JUMEAUX",
+        "auteur": "GLO",
+        "annee": 2025,
+        "isbn": "1234567891234",
+        "statut": "disponible"
+    },
+    {
+        "id": 20,
+        "titre": "LES JUMEAUX",
+        "auteur": "GLO",
+        "annee": 2025,
+        "isbn": "1234567891234",
+        "statut": "disponible"
+    },
+    {
+        "id": 21,
+        "titre": "LES JUMEAUX",
+        "auteur": "GLO",
+        "annee": 2025,
+        "isbn": "1234567891234",
+        "statut": "disponible"
+    },
+    {
+        "id": 22,
+        "titre": "LES JUMEAUX",
+        "auteur": "GLO",
+        "annee": 2025,
+        "isbn": "1234567891234",
+        "statut": "disponible"
+    },
+    {
+        "id": 23,
+        "titre": "LES JUMEAUX",
+        "auteur": "GLO",
+        "annee": 2025,
+        "isbn": "1234567891234",
+        "statut": "disponible"
+    },
+    {
+        "id": 24,
+        "titre": "DFGHJK",
+        "auteur": "LKH",
+        "annee": "",
+        "isbn": "",
+        "statut": "disponible"
+    },
+    {
+        "id": 25,
+        "titre": "DFGHJK",
+        "auteur": "LKH",
+        "annee": "",
+        "isbn": "",
+        "statut": "disponible"
+    },
+    {
+        "id": 26,
+        "titre": "DFGHJK",
+        "auteur": "LKH",
+        "annee": "",
+        "isbn": "",
+        "statut": "disponible"
+    },
+    {
+        "id": 27,
+        "titre": "DFGHJK",
+        "auteur": "LKH",
+        "annee": "",
+        "isbn": "",
+        "statut": "disponible"
+    },
+    {
+        "id": 28,
+        "titre": "DFGHJK",
+        "auteur": "LKH",
+        "annee": 2005,
+        "isbn": "576897987500",
+        "statut": "disponible"
+    },
+    {
+        "id": 29,
+        "titre": "DFGHJK",
+        "auteur": "LKH",
+        "annee": 2005,
+        "isbn": "576897987500",
+        "statut": "disponible"
+    },
+    {
+        "id": 30,
+        "titre": "DFGHJK",
+        "auteur": "LKH",
+        "annee": 2005,
+        "isbn": "576897987500",
+        "statut": "disponible"
+    },
+    {
+        "id": 31,
+        "titre": "DFGHJK",
+        "auteur": "LKH",
+        "annee": 2005,
+        "isbn": "576897987500",
+        "statut": "disponible"
+    },
+    {
+        "id": 32,
+        "titre": "DFGHJK",
+        "auteur": "LKH",
+        "annee": 2005,
+        "isbn": "576897987500",
+        "statut": "disponible"
+    },
+    {
+        "id": 33,
+        "titre": "DFGHJK",
+        "auteur": "LKH",
+        "annee": 2005,
+        "isbn": "576897987500",
+        "statut": "disponible"
+    },
+    {
+        "id": 34,
+        "titre": "DFGHJK",
+        "auteur": "LKH",
+        "annee": 2005,
+        "isbn": "576897987500",
+        "statut": "disponible"
+    },
+    {
+        "id": 35,
+        "titre": "DFGHJK",
+        "auteur": "LKH",
+        "annee": 2005,
+        "isbn": "576897987500",
+        "statut": "disponible"
+    },
+    {
+        "id": 36,
+        "titre": "DFGHJK",
+        "auteur": "LKH",
+        "annee": 2005,
+        "isbn": "576897987500",
+        "statut": "disponible"
+    },
+    {
+        "id": 37,
+        "titre": "DFGHJK",
+        "auteur": "LKH",
+        "annee": 2005,
+        "isbn": "576897987500",
+        "statut": "disponible"
+    }
+]
